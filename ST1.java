@@ -7,7 +7,7 @@ public class ST1 {
 	System.out.print("请输入用户名：");
 	String name=input.next();
 	if(!name.equals("GitHub")){
-		System.out.println("对不起，你不是青");
+		System.out.println("对不起，你不是GitHub");
 	}else{
 		System.out.println("欢迎你，GitHub！");
 	}
